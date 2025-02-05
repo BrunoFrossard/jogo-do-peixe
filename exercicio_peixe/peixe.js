@@ -50,4 +50,4 @@ function update() {
 
     tubarão.x = this.input.x;
     tubarão.y = this.input.y;
-}
+    
